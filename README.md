@@ -1,6 +1,6 @@
-# 🚗 Automatic Parking Barrier System using Arduino Uno
+#  Automatic Parking Barrier System using Arduino Uno
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates an automatic parking barrier system built using an Arduino Uno, an IR obstacle sensor, and an SG90 micro servo motor.
 
@@ -10,7 +10,7 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 
 ---
 
-## 🛠️ Components Used
+##  Components Used
 
 - Arduino Uno
 - SG90 9g Servo Motor
@@ -22,7 +22,7 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Automatic vehicle detection using an IR sensor
 - Servo-controlled barrier gate
@@ -32,7 +32,7 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 
 ---
 
-## 🔌 Circuit Connections
+##  Circuit Connections
 
 ### Servo Motor
 
@@ -59,7 +59,7 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 
 ---
 
-## 🚦 Working Principle
+##  Working Principle
 
 1. The gate starts in the closed position.
 2. The IR sensor detects an approaching vehicle.
@@ -70,7 +70,7 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 
 ---
 
-## 💡 Applications
+##  Applications
 
 - Parking lots
 - Residential gate automation
