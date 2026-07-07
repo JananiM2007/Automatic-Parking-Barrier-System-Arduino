@@ -69,7 +69,13 @@ This project showcases the basics of embedded systems, sensor interfacing, and s
 6. The LED indicates the gate status.
 
 ---
-
+## Information regarding the Arduino Files:
+1.ir_testing.ino - this is to test if the ir sensor is working.
+2.servo_test.ino-to test the servo motor.
+3.servo_proper_pos.ino-this is to make the servo rest at 0 degre to make it convinient for our use.
+4.try1.ino- this code is the intial code where the servo turns and angle of 90 whenever IR senses an object and it comes back to its original place regardless if the object has moved or not.
+5.try2.ino-this is the first update brought to the arduino code where the servo comes back to its original place only when the object moves.
+6.try3.ino-this code makes has adjustment done in the servo angle according to my hardware settings.
 ##  Applications
 
 - Parking lots
